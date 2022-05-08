@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @nwabudo
+- 👀 I’m interested in Engineering, Fintech, Robotics and Artificial Inteligence
+- 🌱 I’m currently learning Kotlin for Work, Python for Self
+- 💞️ I’m looking to collaborate on all the areas of my interests
+- 📫 How to reach me: [Via Mail](mailto:nwabudoemmanuel@gmail.com), [Via Twitter](https://twitter.com/nwabudo)
