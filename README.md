@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @nwabudo
-- 👀 I’m interested in Engineering, Fintech, Robotics and Artificial Inteligence
-- 🌱 I’m currently learning Kotlin for Work, Python for Self
+- 👋 Hi, My name is Nwabudo, Emmanuel Onyekachi (neo)
+- 🛠️ A graduate of Automotive Engineering 
+- 👀 I’m interested in topics/projects around Automotive Engineering, Fintech, Robotics and Artificial intelligence
+- 🌱 I speak Golang, Java, Kotlin, Springboot for Work, Python for Self, English with people I have to socialize with 🙄 and learning Deutsch 
 - 💞️ I’m looking to collaborate on all the areas of my interests
 - 📫 How to reach me: [Via Mail](mailto:nwabudoemmanuel@gmail.com), [Via Twitter](https://twitter.com/nwabudo)
